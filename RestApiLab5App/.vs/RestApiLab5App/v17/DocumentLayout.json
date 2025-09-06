@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\models\\inmembookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\models\\inmembookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\models\\createorupdatebookschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\models\\createorupdatebookschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\repo\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\repo\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\restapilab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\restapilab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|c:\\users\\andre\\desktop\\projects\\web-services-fundamentals\\restapilab5app\\restapilab5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1A2FA6C-D132-4F75-9FAC-C4DBCED62DAF}|RestApiLab5\\RestApiLab5.csproj|solutionrelative:restapilab5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrUpdateBookSchema.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Models\\CreateOrUpdateBookSchema.cs",
+              "RelativeDocumentMoniker": "RestApiLab5\\Models\\CreateOrUpdateBookSchema.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Models\\CreateOrUpdateBookSchema.cs",
+              "RelativeToolTip": "RestApiLab5\\Models\\CreateOrUpdateBookSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T22:24:45.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Program.cs",
+              "RelativeDocumentMoniker": "RestApiLab5\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Program.cs",
+              "RelativeToolTip": "RestApiLab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T22:06:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemBookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Models\\InMemBookRepo.cs",
+              "RelativeDocumentMoniker": "RestApiLab5\\Models\\InMemBookRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Models\\InMemBookRepo.cs",
+              "RelativeToolTip": "RestApiLab5\\Models\\InMemBookRepo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:32:24.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Repo\\IBook.cs",
+              "RelativeDocumentMoniker": "RestApiLab5\\Repo\\IBook.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Repo\\IBook.cs",
+              "RelativeToolTip": "RestApiLab5\\Repo\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:18:19.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "RestApiLab5\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Models\\Book.cs",
+              "RelativeToolTip": "RestApiLab5\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:12:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestApiLab5.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\RestApiLab5.csproj",
+              "RelativeDocumentMoniker": "RestApiLab5\\RestApiLab5.csproj",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\RestApiLab5.csproj",
+              "RelativeToolTip": "RestApiLab5\\RestApiLab5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T21:06:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "RestApiLab5\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "RestApiLab5\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:07:46.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\appsettings.json",
+              "RelativeDocumentMoniker": "RestApiLab5\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\appsettings.json",
+              "RelativeToolTip": "RestApiLab5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T21:05:51.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestApiLab5\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Projects\\web-services-fundamentals\\RestApiLab5App\\RestApiLab5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestApiLab5\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T21:00:34.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
